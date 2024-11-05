@@ -1,0 +1,25 @@
+C:\Users\Kin\Desktop\KFurigayQGame\KFurigayQGame\bin\Debug\KFurigayQGame.exe.config
+C:\Users\Kin\Desktop\KFurigayQGame\KFurigayQGame\bin\Debug\KFurigayQGame.exe
+C:\Users\Kin\Desktop\KFurigayQGame\KFurigayQGame\bin\Debug\KFurigayQGame.pdb
+C:\Users\Kin\Desktop\KFurigayQGame\KFurigayQGame\obj\Debug\KFurigayQGame.csproj.AssemblyReference.cache
+C:\Users\Kin\Desktop\KFurigayQGame\KFurigayQGame\obj\Debug\KFurigayQGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kin\Desktop\KFurigayQGame\KFurigayQGame\obj\Debug\KFurigayQGame.ControlPanelForm.resources
+C:\Users\Kin\Desktop\KFurigayQGame\KFurigayQGame\obj\Debug\KFurigayQGame.DesignerForm.resources
+C:\Users\Kin\Desktop\KFurigayQGame\KFurigayQGame\obj\Debug\KFurigayQGame.Properties.Resources.resources
+C:\Users\Kin\Desktop\KFurigayQGame\KFurigayQGame\obj\Debug\KFurigayQGame.csproj.GenerateResource.cache
+C:\Users\Kin\Desktop\KFurigayQGame\KFurigayQGame\obj\Debug\KFurigayQGame.csproj.CoreCompileInputs.cache
+C:\Users\Kin\Desktop\KFurigayQGame\KFurigayQGame\obj\Debug\KFurigayQGame.exe
+C:\Users\Kin\Desktop\KFurigayQGame\KFurigayQGame\obj\Debug\KFurigayQGame.pdb
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 2\KFurigayQGame\KFurigayQGame\bin\Debug\KFurigayQGame.exe.config
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 2\KFurigayQGame\KFurigayQGame\bin\Debug\KFurigayQGame.exe
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 2\KFurigayQGame\KFurigayQGame\bin\Debug\KFurigayQGame.pdb
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 2\KFurigayQGame\KFurigayQGame\obj\Debug\KFurigayQGame.csproj.AssemblyReference.cache
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 2\KFurigayQGame\KFurigayQGame\obj\Debug\KFurigayQGame.csproj.SuggestedBindingRedirects.cache
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 2\KFurigayQGame\KFurigayQGame\obj\Debug\KFurigayQGame.ControlPanelForm.resources
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 2\KFurigayQGame\KFurigayQGame\obj\Debug\KFurigayQGame.DesignerForm.resources
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 2\KFurigayQGame\KFurigayQGame\obj\Debug\KFurigayQGame.Properties.Resources.resources
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 2\KFurigayQGame\KFurigayQGame\obj\Debug\KFurigayQGame.csproj.GenerateResource.cache
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 2\KFurigayQGame\KFurigayQGame\obj\Debug\KFurigayQGame.csproj.CoreCompileInputs.cache
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 2\KFurigayQGame\KFurigayQGame\obj\Debug\KFurigayQGame.exe
+C:\! PERSONAL FILES\AA CONESTOGA COLLEGE\FALL TERM\Game Programming\Assignment 2\KFurigayQGame\KFurigayQGame\obj\Debug\KFurigayQGame.pdb
+C:\Users\Kin\Desktop\KFurigayQGame\KFurigayQGame\obj\Debug\KFurigayQGame.PlayForm.resources
